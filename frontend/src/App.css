@@ -1,0 +1,15 @@
+main {
+  min-height: 100vh;
+}
+
+h1 {
+  padding: 0.4rem 0rem;
+}
+
+h2 {
+  padding: 0.4rem 0rem;
+}
+
+.order-id {
+  letter-spacing: 0em;
+}
